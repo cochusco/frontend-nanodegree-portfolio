@@ -6,7 +6,7 @@
 
 hr {
 	height: 3px;
-	background-color: #D7D7D7;
+	background-color: #BCBBBB;
 }
 
 body {
@@ -32,8 +32,7 @@ body {
 }
 
 .title-logo{
-	margin-top: 20px;
-	border: 7px solid #F8981C ;
+	margin-top: 20px;	
 }
 
 .image-link {
