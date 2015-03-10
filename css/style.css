@@ -1,18 +1,12 @@
-
-/*
-* {
-    border: 1px solid red !important;
-} */
-
-hr {
-	height: 3px;
-	background-color: #BCBBBB;
-}
-
 body {
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	color: #747704;
+}
+
+hr {
+	height: 3px;
+	background-color: #BCBBBB;
 }
 
 .text-muted {
@@ -31,7 +25,7 @@ body {
 	padding-left: 20px;
 }
 
-.title-logo{
+.title-logo {
 	margin-top: 20px;	
 }
 
@@ -39,4 +33,3 @@ body {
 	color: #BCBBBB ;
 	font-size: 15px;
 }
-
