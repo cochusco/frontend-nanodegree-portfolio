@@ -6,11 +6,11 @@ body {
 
 hr {
 	height: 3px;
-	background-color: #BCBBBB;
+	background-color: #bcbbbb;
 }
 
 .text-muted {
-	color: #BCBBBB ;
+	color: #bcbbbb;
 }
 
 .text-thin {
@@ -30,6 +30,6 @@ hr {
 }
 
 .image-link {
-	color: #BCBBBB ;
+	color: #bcbbbb;
 	font-size: 15px;
 }
